@@ -1,5 +1,5 @@
 ## Description:
-This program is very good for practicing coding with the lovely Python language 💞 because you can become more proficient and interested in Python after you finish playing the program you wrote while enjoying the game.😉
+This program is very good for practicing coding with the lovely Python language 💞 because you can become more proficient and interested in Python after you finish playing the program you wrote while enjoying the game 😉
 ## Instructions:
 The game starts with the word `start` In the first stage, the user's position is displayed, and he can reach the door by moving towards the directions.
 If he reaches it, he wins 🎆 and if he hits the monster, he loses 😭 At the end, he exits the game by writing the word `QUIT`
