@@ -118,3 +118,7 @@ print("welcome to the DUNGEON!")
 input("press 'return' to start!")
 clear_screen()
 game_loop()
+
+# Name of the programmer: Maryam Jamali
+# Email address: m.jamali16@yahoo.com
+# GitHub address: https://github.com/MaryaJamali
